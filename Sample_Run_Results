@@ -1,0 +1,19 @@
+PRECISION =          16
+ **********************************************************
+ !!**** Accuracy check using data in [ 1.0000000E-030 ,  1.0000000E+004] ****!!
+ **********************************************************
+ Built-in   : Erfc_Scaled
+     Max Re. Error |y-yref|/|yref| =  5.6906710E-032
+
+ Present    : Erfcx_rk
+     Max Re. Error |y-yref|/|yref| =  5.6906710E-032
+
+
+
+
+ *********************************************************
+ !!**** Efficiency Comparison in [ 1.0000000E-006 ,  1.0000000E+006] ****!!
+ *********************************************************
+ Elapsed time: ERFC_SCALED             =  3.1171875E+001   seconds
+
+ Elapsed time: Present Erfcx_rk        =  9.6718750E+000   seconds
