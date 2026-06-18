@@ -49,9 +49,9 @@
         ! 3. THIS SOFTWARE CANNOT BE USED FOR COMMERCIAL PURPOSES WITHOUT SPECIFIC PRIOR WRITTEN
         ! PERMISSION.
         ! 4. PROPER CITATION TO THE ORIGINAL PAPER MUST BE MADE IN ANY PUBLICATIONS OR PRODUCTS USING
-        ! THIS SOFTWARE: ZAGHLOUL, M. R., ìEfficient  multi-precision computation of thr scaled
-        ! complementary error function and the Dawson integralî
-        ! Numerical Algorithms Volume 95, pages 1291ñ1308,(2024) https://doi.org/10.1007/s11075-023-01608-8  
+        ! THIS SOFTWARE: ZAGHLOUL, M. R., ‚ÄúEfficient  multi-precision computation of thr scaled
+        ! complementary error function and the Dawson integral‚Äù
+        ! Numerical Algorithms Volume 95, pages 1291‚Äì1308,(2024) https://doi.org/10.1007/s11075-023-01608-8  
         ! !---------------
 
         Implicit None
